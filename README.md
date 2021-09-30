@@ -7,5 +7,5 @@ Llevo más de 8 años en la programación, me gusta mucho todo lo relacionado co
 
 · I’m currently working on new projects
 · I’m currently learning JavaScript
-· favorite language -> snake Python
+· favorite language -> Python
 
